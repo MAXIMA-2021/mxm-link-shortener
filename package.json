@@ -1,0 +1,25 @@
+{
+  "name": "mxm-link-shortener",
+  "version": "1.0.0",
+  "description": "MAXIMA UMN 2021 Link Shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAXIMA-2021/mxm-link-shortener.git"
+  },
+  "author": "dyneamic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAXIMA-2021/mxm-link-shortener/issues"
+  },
+  "homepage": "https://github.com/MAXIMA-2021/mxm-link-shortener#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14",
+    "valid-url": "^1.0.9"
+  }
+}
